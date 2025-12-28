@@ -1,6 +1,6 @@
 🌊 Flood Risk Classification Using Spatial Data & Machine Learning
 
-Case Study: Sumatra, Indonesia
+Case Study: Aceh, Indonesia
 
 📌 Project Overview
 
