@@ -119,12 +119,12 @@ EPSG:4326 is used to ensure full regional coverage across Sumatra
 
 Clone the repository:
 
-'''git clone https://github.com/your-username/flood-risk-ml.git'''
+```git clone https://github.com/your-username/flood-risk-ml.git```
 
 
 Open the notebook in Google Colab or Jupyter:
 
-'''Flood_Risk_Admin_ML_Folium.ipynb'''
+```Flood_Risk_Admin_ML_Folium.ipynb```
 
 
 Mount Google Drive and update file paths if necessary
