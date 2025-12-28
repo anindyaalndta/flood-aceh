@@ -25,6 +25,7 @@ Avoid memory overflow issues through optimized spatial aggregation
 All datasets used in this project are open-source and publicly available.
 
 🧠 Methodology
+
 1️⃣ Data Preprocessing
 
 All datasets are harmonized to EPSG:4326
