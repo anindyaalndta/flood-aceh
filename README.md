@@ -24,16 +24,6 @@ Avoid memory overflow issues through optimized spatial aggregation
 
 All datasets used in this project are open-source and publicly available.
 
-📍 Spatial Data
-Dataset	Description	Format	Source
-Sentinel-1 Flood Inundation (ACD)	Flood extent raster	GeoTIFF	Copernicus
-DEM	Elevation data	GeoTIFF	Open DEM
-WorldPop	Population density	GeoTIFF	WorldPop
-Administrative Boundary	Kabupaten boundaries	Shapefile	BPS / BIG
-River Network	River vector data	Shapefile	OpenStreetMap
-📊 Non-Spatial Data
-Dataset	Description	Format	Source
-Flood Events per Kabupaten	Historical flood records	CSV	BNPB (Data Bencana Indonesia)
 🧠 Methodology
 1️⃣ Data Preprocessing
 
